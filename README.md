@@ -1,4 +1,8 @@
 # MNIST_NN_C_OMP
-A basic neural network in C, optimized with parallelization using OpenMP
+Code for training a neural network with the MNIST numbers dataset using OpenMP.
 
-First update
+### Get the training dataset
+```
+kaggle datasets download -d oddrationale/mnist-in-csv
+unzip mnist-in-csv.zip -d data
+```

@@ -1,0 +1,7 @@
+passed in num_of_threads: 4
+Sucessfully loaded matrix from hidden
+Sucessfully loaded matrix from output
+Successfully loaded network from 'testing_net/proc_4/'
+Score: 0.08500
+Testing Network - Time elapsed = 0.632617 seconds.
+omp_get_num_threads: 1
